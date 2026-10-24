@@ -1,0 +1,9 @@
+length=3: generated=4 checked=4 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=4: generated=29 checked=29 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=5: generated=34 checked=34 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=6: generated=167 checked=167 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=7: generated=250 checked=250 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=8: generated=983 checked=400 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+length=9: generated=1732 checked=400 violations(tolerance=0)=0 violations(tolerance=20)=0 pipeline_errors=0
+
+exhaustive lengths 3-7: 484 paths, no invariant violation, no pipeline error
